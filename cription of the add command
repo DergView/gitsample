@@ -1,0 +1,36 @@
+[33mcommit 502e727c866c01a2f90341e8796bbd173cad7490[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32missue1[m[33m)[m
+Author: DergView <malonederek5@gmail.com>
+Date:   Wed May 2 15:49:28 2018 +0200
+
+    append description of the add command from issue1 branch
+
+[33mcommit ba10a915bece02a87d70e61c5dab7391a33c117e[m[33m ([m[1;31morigin/master[m[33m)[m
+Merge: 056c62d 91004a4
+Author: DergView <malonederek5@gmail.com>
+Date:   Wed May 2 14:53:11 2018 +0200
+
+    merge
+
+[33mcommit 91004a4b867a19d6b07fc764bd3dfc8311f57f39[m
+Author: DergView <malonederek5@gmail.com>
+Date:   Wed May 2 14:45:45 2018 +0200
+
+    append description of the pull command
+
+[33mcommit 056c62d025048226f127ed97446f37fadb13221f[m
+Author: DergView <malonederek5@gmail.com>
+Date:   Wed May 2 14:43:16 2018 +0200
+
+    append description of the commit command
+
+[33mcommit 8de074f60ffb9751687f7b6d19f8590f505b9cbc[m
+Author: DergView <malonederek5@gmail.com>
+Date:   Tue May 1 23:18:08 2018 +0200
+
+    append description of the add command
+
+[33mcommit 964f5ff1dd4261a086fc9ea47562b8f0359ad764[m
+Author: DergView <malonederek5@gmail.com>
+Date:   Tue May 1 22:57:22 2018 +0200
+
+    first commit
